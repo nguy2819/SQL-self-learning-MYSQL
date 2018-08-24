@@ -6,7 +6,7 @@ Two types of Database:
 
 2. Non-relational (no SQL)
   - Organize data into anything, but a traditional table
-    + Key-value stores
+    + Key-value stores (Keys are mapped to values - strings/json/blob/etc.)
     + Documents (JSON, XML, etc.)
     + Graphs
     + Flexible tables
